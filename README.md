@@ -26,9 +26,9 @@
 
 | Project        | Description                                                                                     | Tech Stack                                      |
 |----------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------|
-| [**Ency**](https://github.com/aineias/ency)           | AI-assisted note-taking tool with persistent sessions, GPT summarization & search     | React, TypeScript, TailwindCSS         |
-| [**ZeroToChad**](https://github.com/aineias/zerotochad) | Self-improvement platform for journaling and habit tracking                           | Next.js, Supabase, Flask                   |
-| [**FanControl Daemon**](https://github.com/aineias/fancontrol-daemon) | Linux daemon for advanced PWM fan control with airflow logic and cooldown heuristics | Python, Systemd, Linux                            |
+| [**Ency**](https://github.com/devaineias/ency)           | AI-assisted note-taking tool with persistent sessions, GPT summarization & search     | React, TypeScript, TailwindCSS         |
+| [**ZeroToChad**](https://github.com/devaineias/zero-to-chad/) | Self-improvement platform for journaling and habit tracking                           | Next.js, Supabase, Flask                   |
+| [**FanControl Daemon**](https://github.com/devaineias/Smart-Fan-Control) | Linux daemon for advanced PWM fan control with airflow logic and cooldown heuristics | Python, Systemd, Linux                            |
 
 
 ---
