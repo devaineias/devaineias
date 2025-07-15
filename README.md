@@ -1,4 +1,9 @@
-<h1 align="center">Hi, I'm Aineias Vasileiou 👋</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=devaineias.devaineias" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Sans&size=35&center=true&color=1D4B83&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aineias+Vasileiou!;" />
+</h1>
+
 <p align="center">
   Passionate about building fast, elegant software from the ground up.
 </p>
