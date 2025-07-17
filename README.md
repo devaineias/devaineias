@@ -12,10 +12,10 @@
 
 ### 👨‍💻 About Me
 
-- 🧠 Self-taught full-stack developer passionate about building fast, elegant, and maintainable web applications.
-- 🛠️ Focused on building developer-centric tools and performance-aware backend systems  
-- 🎯 I care about clean UX, low-level optimization, and writing maintainable code  
-- 🌱 Currently learning: Rust and embedded systems
+- 🧠 Self-taught full-stack developer with a passion for well-crafted, performant software
+- 🛠️ I enjoy building developer-facing tools, performance-aware backends, and polished frontends  
+- 🎯 I care about clean UX, low-level optimization, and maintainable architecture  
+- 🌱 Currently exploring: Rust and embedded systems
 
 ---
 
@@ -36,8 +36,11 @@
 | [**ZeroToChad**](https://github.com/devaineias/zero-to-chad/) | Self-improvement platform for journaling and habit tracking                           | Next.js, Supabase, Flask                   |
 | [**FanControl Daemon**](https://github.com/devaineias/Smart-Fan-Control) | Linux daemon for advanced PWM fan control with airflow logic and cooldown heuristics | Python, Systemd, Linux                            |
 
-
 ---
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Sans&size=35&center=true&color=1D4B83&vCenter=true&width=700&height=70&duration=8000&lines=Thanks+for+visiting!+✌️;Let’s+collaborate+on+something+awesome!;Reach+out+if+you+have+an+idea!;">
+</h1>
 
 ### 🔗 Reach Me
 
