@@ -39,7 +39,7 @@
 ---
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Sans&size=35&center=true&color=1D4B83&vCenter=true&width=700&height=70&duration=8000&lines=Thanks+for+visiting!+✌️;Let’s+collaborate+on+something+awesome!;Reach+out+if+you+have+an+idea!;">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Sans&size=35&center=true&color=1D4B83&vCenter=true&width=700&height=70&duration=7000&lines=Thanks+for+visiting!+✌️;Let’s+collaborate+on+something+awesome!;Reach+out+if+you+have+an+idea!;">
 </h1>
 
 ### 🔗 Reach Me
