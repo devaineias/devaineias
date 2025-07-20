@@ -22,8 +22,8 @@
 ### 🧰 Tech Stack
 
 - **Languages**: TypeScript, JavaScript, Python, Rust, HTML, CSS, Dart
-- **Frameworks & Libraries**: React, Next.js, Vue.js, Flask, Django, TailwindCSS, Flutter, Supabase, MongoDB
-- **Tools & Platforms**: Linux, Git, Docker, Node.js, PostgreSQL, Figma, REST APIs, Unit Testing
+- **Frameworks & Libraries**: React, Next.js, Vue.js, Node.js, Tailwind CSS, Flask, Django, Flutter, Firebase, Supabase, MongoDB, PostgreSQL
+- **Tools & Platforms**: Linux, Git, Docker, Figma, REST APIs, Unit Testing
 
 
 ---
